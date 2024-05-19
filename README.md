@@ -1,1 +1,0 @@
-# Mavericks-Python-3
